@@ -14,7 +14,7 @@ death = False
 direction_change = False
 tick = 0.1
 dimension = 20
-windowsize = 1200
+windowsize = 800
 points = 0
 frame = Frame("Mouse Click", windowsize, dimension, True)
 

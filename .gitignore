@@ -1,0 +1,13 @@
+tictactoe/__pycache__/frame.cpython-39.pyc
+tetris/__pycache__/frame.cpython-39.pyc
+snake/__pycache__/frame.cpython-39.pyc
+.idea/
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
