@@ -1,5 +1,5 @@
 # python-games
-In this repo, I will publish some games that I've written to learn Python
+Some games I've written in Python
 
 <strong>You need tkinter to run the games</strong>
 
